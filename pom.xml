@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>acada-snapshot</id>
 	      <name>ACADA Learning snapshot Nexus Repository </name>
-	      <url>http://nexus:8081/repository/lisa-shapshot/</url>
+	      <url>http://nexus:8081/repository/lisa-snapshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
